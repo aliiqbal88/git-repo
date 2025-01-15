@@ -1,3 +1,5 @@
 some example text
 
+this be new line
+
 some more example text
