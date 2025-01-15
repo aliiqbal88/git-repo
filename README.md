@@ -1,2 +1,3 @@
 # git-repo
-git training
+
+testing readme with git gui
