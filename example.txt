@@ -1,5 +1,4 @@
 This is an example 
 
-ok we have some new changes
 
 now we make some more changes
